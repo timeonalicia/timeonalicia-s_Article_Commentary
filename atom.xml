@@ -3,7 +3,7 @@
 	<generator uri="https://dieghernan.github.io/chulapa" version="1.0.0">Chulapa</generator>
 	<link href="https://timeonalicia.github.io/timeonalicia-s_Article_Commentary/atom.xml" rel="self" type="application/atom+xml" />
 	<link href="https://timeonalicia.github.io/timeonalicia-s_Article_Commentary" rel="alternate" type="text/html" />
-	<updated>2026-09-22T01:04:04+00:00</updated>
+	<updated>2026-09-22T06:01:32+00:00</updated>
 	<id>https://timeonalicia.github.io/timeonalicia-s_Article_Commentary/atom.xml</id>
 	<title>Notes and Journals | 随笔随记</title>
 	<subtitle>随笔随记</subtitle>
@@ -14,6 +14,120 @@
 	<rights>(c) 2026, LYB</rights>
 	
 	<logo>https://timeonalicia.github.io/timeonalicia-s_Article_Commentary/%E9%87%8D%E5%BA%86/China</logo><entry>
+		<title type="html">First test!</title>
+		<link href="https://timeonalicia.github.io/timeonalicia-s_Article_Commentary/20260922_Test/" rel="alternate" type="text/html" title="First test!"/>
+		<published>2026-09-22T00:00:00+00:00</published>
+		<updated>2026-09-22T00:00:00+00:00</updated>
+		<id>https://timeonalicia.github.io/timeonalicia-s_Article_Commentary/20260922_Test/</id>
+		<content type="html" xml:base="https://timeonalicia.github.io/timeonalicia-s_Article_Commentary/20260922_Test/">
+		
+  		
+	&lt;p&gt;1 min.&lt;/p&gt;
+			&lt;h1 id=&quot;markdown-原始语言&quot;&gt;markdown 原始语言&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;加粗字代&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;一级标题&quot;&gt;一级标题&lt;/h1&gt;
+
+&lt;h2 id=&quot;二级标题&quot;&gt;二级标题&lt;/h2&gt;
+
+&lt;h3 id=&quot;三级标题&quot;&gt;三级标题&lt;/h3&gt;
+
+&lt;h4 id=&quot;四级标题&quot;&gt;四级标题&lt;/h4&gt;
+
+&lt;h5 id=&quot;五级标题&quot;&gt;五级标题&lt;/h5&gt;
+
+&lt;h6 id=&quot;六级标题&quot;&gt;六级标题&lt;/h6&gt;
+
+&lt;p&gt;####### 七级标题&lt;/p&gt;
+
+&lt;p&gt;标题只有6个级别&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;斜体&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;del&gt;删除线&lt;/del&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;无序列表&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;有序列表&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;a href=&quot;www.baidu.com&quot;&gt;连接&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;C:\Users\Administrator\Desktop\记录\1.png&quot; alt=&quot;图片&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;引用&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;“ 代码”&lt;/p&gt;
+
+&lt;p&gt;”“” 多行代码“”“&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;分割线&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;姓名&lt;/th&gt;
+      &lt;th&gt;年龄&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt; &lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;
+    &lt;p&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;未完成&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;
+    &lt;p&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;完成&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nf&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;sh&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;hello&lt;/span&gt;&lt;span class=&quot;sh&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+
+		</content>
+		
+		<author>
+			<name>LYB</name></author>
+		<summary type="html">&lt;h1 id=&quot;markdown-原始语言&quot;&gt;markdown 原始语言&lt;/h1&gt;
+</summary>
+		<category term="posts"/>
+		<category term="exciting-stuff"/><category term="random"/>
+	</entry><entry>
+		<title type="html">First post!</title>
+		<link href="https://timeonalicia.github.io/timeonalicia-s_Article_Commentary/20260922_SLAM-1/" rel="alternate" type="text/html" title="First post!"/>
+		<published>2026-09-22T00:00:00+00:00</published>
+		<updated>2026-09-22T00:00:00+00:00</updated>
+		<id>https://timeonalicia.github.io/timeonalicia-s_Article_Commentary/20260922_SLAM-1/</id>
+		<content type="html" xml:base="https://timeonalicia.github.io/timeonalicia-s_Article_Commentary/20260922_SLAM-1/">
+		
+  		
+	&lt;p&gt;1 min.&lt;/p&gt;
+			&lt;p&gt;This is my first post, how exciting!&lt;/p&gt;
+
+		</content>
+		
+		<author>
+			<name>LYB</name></author>
+		<summary type="html">&lt;p&gt;This is my first post, how exciting!&lt;/p&gt;
+</summary>
+		<category term="posts"/>
+		<category term="exciting-stuff"/><category term="random"/>
+	</entry><entry>
 		<title type="html">Current skin</title>
 		<link href="https://timeonalicia.github.io/timeonalicia-s_Article_Commentary/20201231_current-skin/" rel="alternate" type="text/html" title="Current skin"/>
 		<published>2020-12-31T00:00:00+00:00</published>
@@ -46,14 +160,14 @@
 	  &lt;li class=&quot;page-item disabled mx-auto invisible&quot;&gt;
 	   &lt;p class=&quot;page-link&quot;&gt;|&lt;/p&gt;
 	  &lt;/li&gt;	
-	  &lt;li class=&quot;page-item border-0 disabled text-right mr-0 ml-auto d-none d-sm-inline d-md-none invisible&quot;&gt;
-	    &lt;p class=&quot;page-link chulapa-label&quot;&gt;&lt;/p&gt;
+	  &lt;li class=&quot;page-item border-0 disabled text-right mr-0 ml-auto d-none d-sm-inline d-md-none &quot;&gt;
+	    &lt;p class=&quot;page-link chulapa-label&quot;&gt;First post!&lt;/p&gt;
 	  &lt;/li&gt;
-	  &lt;li class=&quot;page-item border-0 disabled text-right mr-0 ml-auto d-none d-md-inline invisible&quot;&gt;
-	    &lt;p class=&quot;page-link chulapa-label&quot;&gt;&lt;/p&gt;
+	  &lt;li class=&quot;page-item border-0 disabled text-right mr-0 ml-auto d-none d-md-inline &quot;&gt;
+	    &lt;p class=&quot;page-link chulapa-label&quot;&gt;First post!&lt;/p&gt;
 	  &lt;/li&gt;
-    &lt;li class=&quot;page-item text-right ml-0 invisible&quot;&gt;
-      &lt;a class=&quot;page-link border-0 px-4&quot; href=&quot;#&quot;&gt;
+    &lt;li class=&quot;page-item text-right ml-0 &quot;&gt;
+      &lt;a class=&quot;page-link border-0 px-4&quot; href=&quot;https://timeonalicia.github.io/timeonalicia-s_Article_Commentary/20260922_SLAM-1/&quot;&gt;
 	  &lt;i class=&quot;fa fa-chevron-right&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;span class=&quot;sr-only&quot;&gt;Next&lt;/span&gt;&lt;/a&gt;
     &lt;/li&gt;
   &lt;/ul&gt;
@@ -1760,35 +1874,6 @@ to understand &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt
 		<category term="posts"/>
 		<category term="downtown"/><category term="image"/><category term="street"/><category term="urban art"/>
 	</entry><entry>
-		<title type="html">Flake it till you make it</title>
-		<link href="https://timeonalicia.github.io/timeonalicia-s_Article_Commentary/20150226_flake-it-till-you-make-it/" rel="alternate" type="text/html" title="Flake it till you make it"/>
-		<published>2015-02-26T00:00:00+00:00</published>
-		<updated>2018-09-21T00:00:00+00:00</updated>
-		<id>https://timeonalicia.github.io/timeonalicia-s_Article_Commentary/20150226_flake-it-till-you-make-it/</id>
-		<content type="html" xml:base="https://timeonalicia.github.io/timeonalicia-s_Article_Commentary/20150226_flake-it-till-you-make-it/">
-		
-		
-		&lt;h3&gt;Excerpt from Soulshaping by Jeff Brown&lt;/h3&gt;
-		
-  		
-	&lt;p&gt;2 min.&lt;/p&gt;
-			&lt;p&gt;Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?&lt;/p&gt;
-
-&lt;p&gt;The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.&lt;/p&gt;
-
-&lt;p&gt;At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.&lt;/p&gt;
-
-&lt;p&gt;A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.&lt;/p&gt;
-
-		</content>
-		
-		<author>
-			<name>LYB</name></author>
-		<summary type="html">&lt;p&gt;Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?&lt;/p&gt;
-</summary>
-		<category term="posts"/>
-		<category term="manuscript"/><category term="random"/>
-	</entry><entry>
 		<title type="html">Test markdown</title>
 		<link href="https://timeonalicia.github.io/timeonalicia-s_Article_Commentary/20150220_test-markdown/" rel="alternate" type="text/html" title="Test markdown"/>
 		<published>2015-02-20T00:00:00+00:00</published>
@@ -1869,182 +1954,4 @@ foo(3)
 </summary>
 		<category term="posts"/>
 		<category term="exciting-stuff"/><category term="markdown"/>
-	</entry><entry>
-		<title type="html">To be</title>
-		<link href="https://timeonalicia.github.io/timeonalicia-s_Article_Commentary/20150213_hamlet-monologue/" rel="alternate" type="text/html" title="To be"/>
-		<published>2015-02-13T00:00:00+00:00</published>
-		<updated>2015-02-13T00:00:00+00:00</updated>
-		<id>https://timeonalicia.github.io/timeonalicia-s_Article_Commentary/20150213_hamlet-monologue/</id>
-		<content type="html" xml:base="https://timeonalicia.github.io/timeonalicia-s_Article_Commentary/20150213_hamlet-monologue/">
-		
-		
-		&lt;h3&gt;… or not to be?&lt;/h3&gt;
-		
-  		
-	&lt;p&gt;1 min.&lt;/p&gt;
-			&lt;p&gt;To be, or not to be–that is the question:
-Whether ‘tis nobler in the mind to suffer
-The slings and arrows of outrageous fortune
-Or to take arms against a sea of troubles
-And by opposing end them. To die, to sleep–
-No more–and by a sleep to say we end
-The heartache, and the thousand natural shocks
-That flesh is heir to. ‘Tis a consummation
-Devoutly to be wished. To die, to sleep–
-To sleep–perchance to dream: ay, there’s the rub,
-For in that sleep of death what dreams may come
-When we have shuffled off this mortal coil,
-Must give us pause. There’s the respect
-That makes calamity of so long life.
-For who would bear the whips and scorns of time,
-Th’ oppressor’s wrong, the proud man’s contumely
-The pangs of despised love, the law’s delay,
-The insolence of office, and the spurns
-That patient merit of th’ unworthy takes,
-When he himself might his quietus make
-With a bare bodkin? Who would fardels bear,
-To grunt and sweat under a weary life,
-But that the dread of something after death,
-The undiscovered country, from whose bourn
-No traveller returns, puzzles the will,
-And makes us rather bear those ills we have
-Than fly to others that we know not of?
-Thus conscience does make cowards of us all,
-And thus the native hue of resolution
-Is sicklied o’er with the pale cast of thought,
-And enterprise of great pitch and moment
-With this regard their currents turn awry
-And lose the name of action. – Soft you now,
-The fair Ophelia! – Nymph, in thy orisons
-Be all my sins remembered.&lt;/p&gt;
-
-		</content>
-		
-		<author>
-			<name>LYB</name></author>
-		<summary type="html">&lt;p&gt;To be, or not to be–that is the question:
-Whether ‘tis nobler in the mind to suffer
-The slings and arrows of outrageous fortune
-Or to take arms against a sea of troubles
-And by opposing end them. To die, to sleep–
-No more–and by a sleep to say we end
-The heartache, and the thousand natural shocks
-That flesh is heir to. ‘Tis a consummation
-Devoutly to be wished. To die, to sleep–
-To sleep–perchance to dream: ay, there’s the rub,
-For in that sleep of death what dreams may come
-When we have shuffled off this mortal coil,
-Must give us pause. There’s the respect
-That makes calamity of so long life.
-For who would bear the whips and scorns of time,
-Th’ oppressor’s wrong, the proud man’s contumely
-The pangs of despised love, the law’s delay,
-The insolence of office, and the spurns
-That patient merit of th’ unworthy takes,
-When he himself might his quietus make
-With a bare bodkin? Who would fardels bear,
-To grunt and sweat under a weary life,
-But that the dread of something after death,
-The undiscovered country, from whose bourn
-No traveller returns, puzzles the will,
-And makes us rather bear those ills we have
-Than fly to others that we know not of?
-Thus conscience does make cowards of us all,
-And thus the native hue of resolution
-Is sicklied o’er with the pale cast of thought,
-And enterprise of great pitch and moment
-With this regard their currents turn awry
-And lose the name of action. – Soft you now,
-The fair Ophelia! – Nymph, in thy orisons
-Be all my sins remembered.&lt;/p&gt;
-</summary>
-		<category term="posts"/>
-		<category term="manuscript"/><category term="wikipedia"/>
-	</entry><entry>
-		<title type="html">Dear diary</title>
-		<link href="https://timeonalicia.github.io/timeonalicia-s_Article_Commentary/20150127_dear-diary/" rel="alternate" type="text/html" title="Dear diary"/>
-		<published>2015-01-27T00:00:00+00:00</published>
-		<updated>2015-01-27T00:00:00+00:00</updated>
-		<id>https://timeonalicia.github.io/timeonalicia-s_Article_Commentary/20150127_dear-diary/</id>
-		<content type="html" xml:base="https://timeonalicia.github.io/timeonalicia-s_Article_Commentary/20150127_dear-diary/">
-		
-  		
-	&lt;p&gt;1 min.&lt;/p&gt;
-			&lt;p&gt;What is it with that Mary girl?  Dragging me to school every day. As if I had a choice.  What you don’t hear in those nursery rhymes is that she starves me if I don’t go to school with her; it’s the only way I can stay alive!  I’m thinking about being adopted by Little Bo Peep, sure I may get lost, but anything is better than being with Mary and those little brats at school (shudder, shudder).&lt;/p&gt;
-
-		</content>
-		
-		<author>
-			<name>LYB</name></author>
-		<summary type="html">&lt;p&gt;What is it with that Mary girl?  Dragging me to school every day. As if I had a choice.  What you don’t hear in those nursery rhymes is that she starves me if I don’t go to school with her; it’s the only way I can stay alive!  I’m thinking about being adopted by Little Bo Peep, sure I may get lost, but anything is better than being with Mary and those little brats at school (shudder, shudder).&lt;/p&gt;
-</summary>
-		<category term="posts"/>
-		<category term="diary"/><category term="manuscript"/><category term="random"/><category term="school"/>
-	</entry><entry>
-		<title type="html">Soccer</title>
-		<link href="https://timeonalicia.github.io/timeonalicia-s_Article_Commentary/20150119_soccer/" rel="alternate" type="text/html" title="Soccer"/>
-		<published>2015-01-19T00:00:00+00:00</published>
-		<updated>2015-01-19T00:00:00+00:00</updated>
-		<id>https://timeonalicia.github.io/timeonalicia-s_Article_Commentary/20150119_soccer/</id>
-		<content type="html" xml:base="https://timeonalicia.github.io/timeonalicia-s_Article_Commentary/20150119_soccer/">
-		
-		
-		&lt;h3&gt;Best sport ever!&lt;/h3&gt;
-		
-  		
-	&lt;p&gt;1 min.&lt;/p&gt;
-			&lt;p&gt;From Wikipedia:&lt;/p&gt;
-
-&lt;p&gt;Association football, more commonly known as football or soccer,[2] is a sport played between two teams of eleven players with a spherical ball. It is played by 250 million players in over 200 countries, making it the world’s most popular sport.[3][4][5][6] The game is played on a rectangular field with a goal at each end. The object of the game is to score by getting the ball into the opposing goal.&lt;/p&gt;
-
-&lt;p&gt;The goalkeepers are the only players allowed to touch the ball with their hands or arms while it is in play and then only in their penalty area. Outfield players mostly use their feet to strike or pass the ball, but may use their head or torso to strike the ball instead. The team that scores the most goals by the end of the match wins. If the score is level at the end of the game, either a draw is declared or the game goes into extra time and/or a penalty shootout depending on the format of the competition. The Laws of the Game were originally codified in England by The Football Association in 1863. Association football is governed internationally by the International Federation of Association Football (FIFA; French: Fédération Internationale de Football Association) which organises a World Cup every four years.[7]&lt;/p&gt;
-
-		</content>
-		
-		<author>
-			<name>LYB</name></author>
-		<summary type="html">&lt;p&gt;From Wikipedia:&lt;/p&gt;
-</summary>
-		<category term="posts"/>
-		<category term="exciting-stuff"/><category term="random"/><category term="wikipedia"/>
-	</entry><entry>
-		<title type="html">Pirates arrrr</title>
-		<link href="https://timeonalicia.github.io/timeonalicia-s_Article_Commentary/20150115_pirates/" rel="alternate" type="text/html" title="Pirates arrrr"/>
-		<published>2015-01-15T00:00:00+00:00</published>
-		<updated>2015-01-15T00:00:00+00:00</updated>
-		<id>https://timeonalicia.github.io/timeonalicia-s_Article_Commentary/20150115_pirates/</id>
-		<content type="html" xml:base="https://timeonalicia.github.io/timeonalicia-s_Article_Commentary/20150115_pirates/">
-		
-  		
-	&lt;p&gt;1 min.&lt;/p&gt;
-			&lt;p&gt;Piracy is typically an act of robbery or criminal violence at sea. The term can include acts committed on land, in the air, or in other major bodies of water or on a shore. It does not normally include crimes committed against persons traveling on the same vessel as the perpetrator (e.g. one passenger stealing from others on the same vessel). The term has been used throughout history to refer to raids across land borders by non-state agents.&lt;/p&gt;
-
-		</content>
-		
-		<author>
-			<name>LYB</name></author>
-		<summary type="html">&lt;p&gt;Piracy is typically an act of robbery or criminal violence at sea. The term can include acts committed on land, in the air, or in other major bodies of water or on a shore. It does not normally include crimes committed against persons traveling on the same vessel as the perpetrator (e.g. one passenger stealing from others on the same vessel). The term has been used throughout history to refer to raids across land borders by non-state agents.&lt;/p&gt;
-</summary>
-		<category term="posts"/>
-		<category term="pirates"/><category term="random"/><category term="wikipedia"/>
-	</entry><entry>
-		<title type="html">First post!</title>
-		<link href="https://timeonalicia.github.io/timeonalicia-s_Article_Commentary/20150104_first-post/" rel="alternate" type="text/html" title="First post!"/>
-		<published>2015-01-04T00:00:00+00:00</published>
-		<updated>2015-01-04T00:00:00+00:00</updated>
-		<id>https://timeonalicia.github.io/timeonalicia-s_Article_Commentary/20150104_first-post/</id>
-		<content type="html" xml:base="https://timeonalicia.github.io/timeonalicia-s_Article_Commentary/20150104_first-post/">
-		
-  		
-	&lt;p&gt;1 min.&lt;/p&gt;
-			&lt;p&gt;This is my first post, how exciting!&lt;/p&gt;
-
-		</content>
-		
-		<author>
-			<name>LYB</name></author>
-		<summary type="html">&lt;p&gt;This is my first post, how exciting!&lt;/p&gt;
-</summary>
-		<category term="posts"/>
-		<category term="exciting-stuff"/><category term="random"/>
 	</entry></feed>
