@@ -3,7 +3,7 @@
 	<generator uri="https://dieghernan.github.io/chulapa" version="1.0.0">Chulapa</generator>
 	<link href="https://timeonalicia.github.io/timeonalicia-s_Article_Commentary/atom.xml" rel="self" type="application/atom+xml" />
 	<link href="https://timeonalicia.github.io/timeonalicia-s_Article_Commentary" rel="alternate" type="text/html" />
-	<updated>2026-10-08T02:39:05+00:00</updated>
+	<updated>2026-10-08T02:41:21+00:00</updated>
 	<id>https://timeonalicia.github.io/timeonalicia-s_Article_Commentary/atom.xml</id>
 	<title>Notes and Journals | 随笔随记</title>
 	<subtitle>随笔随记</subtitle>
@@ -99,7 +99,7 @@
 
 &lt;p&gt;安装完成后打开VS2022选择&lt;strong&gt;视图&lt;/strong&gt;-&lt;strong&gt;其他窗口&lt;/strong&gt;-&lt;strong&gt;Claude Code Extension&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;./Imgae/2026-10-08/VS2022的使用.png&quot; alt=&quot;使用样例&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;./Imgae/2026-10-08/vs2022Use.png&quot; alt=&quot;使用样例&quot; /&gt;&lt;/p&gt;
 
 
 		</content>
