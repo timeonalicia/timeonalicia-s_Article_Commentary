@@ -7,8 +7,8 @@
 		<description>文章随笔随机做备份</description>
 		<language>en-US</language>
 		<copyright>(c) 2026, LYB</copyright>	
-		<pubDate>Thu, 08 Oct 2026 02:41:21 +0000</pubDate>
-		<lastBuildDate>Thu, 08 Oct 2026 02:41:21 +0000</lastBuildDate>
+		<pubDate>Thu, 08 Oct 2026 02:50:22 +0000</pubDate>
+		<lastBuildDate>Thu, 08 Oct 2026 02:50:22 +0000</lastBuildDate>
 		<category>blog</category>
 		<ttl>60</ttl>
 		<atom:link href="https://timeonalicia.github.io/timeonalicia-s_Article_Commentary/rss.xml" rel="self" type="application/rss+xml" />
@@ -67,23 +67,23 @@
 
 <p>1：添加模型</p>
 
-<p><img src="./Imgae/2026-10-08/CCSwithStep_1.png" alt="图片" /></p>
+<p><img src="/assets/Imgae/2026-10-08/CCSwithStep_1.png" alt="图片" /></p>
 
 <p>2:进入添加页面后，选择你的模型来源，这里采用的deepseek作为AI模型源</p>
 
-<p><img src="./Imgae/2026-10-08/CCSwithStep_2.png" alt="图" /></p>
+<p><img src="/assets/Imgae/2026-10-08/CCSwithStep_2.png" alt="图" /></p>
 
 <p>3:设置模型参数，打开设置，输入模型API，并设置模型参数</p>
 
-<p><img src="./Imgae/2026-10-08/CCSwithStep_3.png" alt="打开设置" /></p>
+<p><img src="/assets/Imgae/2026-10-08/CCSwithStep_3.png" alt="打开设置" /></p>
 
-<p><img src="./Imgae/2026-10-08/CCSwithStep_4.png" alt="输入API" /></p>
+<p><img src="/assets/Imgae/2026-10-08/CCSwithStep_4.png" alt="输入API" /></p>
 
-<p><img src="./Imgae/2026-10-08/CCSwithStep_5.png" alt="设置参数" /></p>
+<p><img src="/assets/Imgae/2026-10-08/CCSwithStep_5.png" alt="设置参数" /></p>
 
 <p>4：选择启用后，命令行运行ClaudeCode,可以看到模型采用deepseekV4模型</p>
 
-<p><img src="./Imgae/2026-10-08/CCSwithStep_6.png" alt="运行CluadeCode" /></p>
+<p><img src="/assets/Imgae/2026-10-08/CCSwithStep_6.png" alt="运行CluadeCode" /></p>
 
 <h2 id="vs2022使用">VS2022使用</h2>
 
@@ -93,7 +93,7 @@
 
 <p>安装完成后打开VS2022选择<strong>视图</strong>-<strong>其他窗口</strong>-<strong>Claude Code Extension</strong></p>
 
-<p><img src="./Imgae/2026-10-08/vs2022Use.png" alt="使用样例" /></p>
+<p><img src="/assets/Imgae/2026-10-08/vs2022Use.png" alt="使用样例" /></p>
 
 </div>
 				]]>
