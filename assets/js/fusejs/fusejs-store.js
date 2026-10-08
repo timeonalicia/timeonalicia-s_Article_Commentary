@@ -94,12 +94,32 @@ var store = [{
         "url": "https://timeonalicia.github.io/timeonalicia-s_Article_Commentary/20260922_Test/",
         "img": null
       },{
+        "title": "Claudecode_vs2022安装",
+        "subtitle": "",
+        "excerpt": "<p>ClaudeCode安装</p>",
+        "content": "ClaudeCode安装 1.前置条件 安装前需要 安装Git和Node.js(ClaudeCode安装时使用) 2.具体安装ClaudeCode 1：WIndows系统：在Powershell中输入：npm install -g @anthropic-ai/claude-code 等待运行完成就安装结束了。 如果报：npm : 无法加载文件 D:\\Program Files\\nodejs\\npm.ps1，因为在此系统上禁止运行脚本。 先执行：Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser 再执行安装程序。 2：安装完成后输入：claude –version 如果返回：2.1.220 (Claude Code)或者其他版本说明安装成功 3.切换AI模型 直接使用claudeCode需要登录Anthropic 账号，需要切换AI源。 下载CCswith...",
+        "categories": [],
+        "date": "2026-10-08",
+        "tags": [],
+        "url": "https://timeonalicia.github.io/timeonalicia-s_Article_Commentary/20261008_ClaudeCode_Vs2022%E5%AE%89%E8%A3%85/",
+        "img": null
+      },{
+        "title": "Mysql8.0安装说明",
+        "subtitle": "",
+        "excerpt": "",
+        "content": "",
+        "categories": [],
+        "date": "2026-10-08",
+        "tags": [],
+        "url": "https://timeonalicia.github.io/timeonalicia-s_Article_Commentary/20261008_Mysql8.0%E5%AE%89%E8%A3%85%E8%AF%B4%E6%98%8E/",
+        "img": null
+      },{
         "title": "Markdown cheatsheet",
         "subtitle": "The basic syntax of your page",
         "excerpt": "<p>A demo page checking Markdown</p>",
         "content": "What’s Markdown? Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents. Created by John Gruber in 2004, Markdown is now one...",
         "categories": ["tutorial"],
-        "date": "2026-09-22",
+        "date": "2026-10-08",
         "tags": ["starter","syntax","markdown"],
         "url": "https://timeonalicia.github.io/timeonalicia-s_Article_Commentary/cheatsheets/01-markdown-cheat-sheet",
         "img": null
@@ -109,7 +129,7 @@ var store = [{
         "excerpt": "<p>kramdown supercharges Markdown with some interesting features.</p>",
         "content": "What’s kramdown? kramdown supercharges Markdown with some interesting features. kramdown is the default Jekyll Markdown processor. When creating your site with Jekyll, you can use the standard Markdown syntax plus...",
         "categories": ["tutorial"],
-        "date": "2026-09-22",
+        "date": "2026-10-08",
         "tags": ["starter","syntax","kramdown"],
         "url": "https://timeonalicia.github.io/timeonalicia-s_Article_Commentary/cheatsheets/02-kramdown-cheat-sheet",
         "img": null

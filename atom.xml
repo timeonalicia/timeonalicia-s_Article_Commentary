@@ -3,7 +3,7 @@
 	<generator uri="https://dieghernan.github.io/chulapa" version="1.0.0">Chulapa</generator>
 	<link href="https://timeonalicia.github.io/timeonalicia-s_Article_Commentary/atom.xml" rel="self" type="application/atom+xml" />
 	<link href="https://timeonalicia.github.io/timeonalicia-s_Article_Commentary" rel="alternate" type="text/html" />
-	<updated>2026-09-22T06:01:32+00:00</updated>
+	<updated>2026-10-08T02:31:40+00:00</updated>
 	<id>https://timeonalicia.github.io/timeonalicia-s_Article_Commentary/atom.xml</id>
 	<title>Notes and Journals | 随笔随记</title>
 	<subtitle>随笔随记</subtitle>
@@ -14,6 +14,103 @@
 	<rights>(c) 2026, LYB</rights>
 	
 	<logo>https://timeonalicia.github.io/timeonalicia-s_Article_Commentary/%E9%87%8D%E5%BA%86/China</logo><entry>
+		<title type="html">Mysql8.0安装说明</title>
+		<link href="https://timeonalicia.github.io/timeonalicia-s_Article_Commentary/20261008_Mysql8.0%E5%AE%89%E8%A3%85%E8%AF%B4%E6%98%8E/" rel="alternate" type="text/html" title="Mysql8.0安装说明"/>
+		<published>2026-10-08T00:00:00+00:00</published>
+		<updated>2026-10-08T00:00:00+00:00</updated>
+		<id>https://timeonalicia.github.io/timeonalicia-s_Article_Commentary/20261008_Mysql8.0%E5%AE%89%E8%A3%85%E8%AF%B4%E6%98%8E/</id>
+		<content type="html" xml:base="https://timeonalicia.github.io/timeonalicia-s_Article_Commentary/20261008_Mysql8.0%E5%AE%89%E8%A3%85%E8%AF%B4%E6%98%8E/">
+		
+  		
+	&lt;p&gt;1 min.&lt;/p&gt;
+			
+
+		</content>
+		
+		<author>
+			<name>LYB</name></author>
+		<summary type="html">
+</summary>
+		<category term="posts"/>
+		
+	</entry><entry>
+		<title type="html">Claudecode_vs2022安装</title>
+		<link href="https://timeonalicia.github.io/timeonalicia-s_Article_Commentary/20261008_ClaudeCode_Vs2022%E5%AE%89%E8%A3%85/" rel="alternate" type="text/html" title="Claudecode_vs2022安装"/>
+		<published>2026-10-08T00:00:00+00:00</published>
+		<updated>2026-10-08T00:00:00+00:00</updated>
+		<id>https://timeonalicia.github.io/timeonalicia-s_Article_Commentary/20261008_ClaudeCode_Vs2022%E5%AE%89%E8%A3%85/</id>
+		<content type="html" xml:base="https://timeonalicia.github.io/timeonalicia-s_Article_Commentary/20261008_ClaudeCode_Vs2022%E5%AE%89%E8%A3%85/">
+		
+  		
+	&lt;p&gt;1 min.&lt;/p&gt;
+			&lt;h1 id=&quot;claudecode安装&quot;&gt;ClaudeCode安装&lt;/h1&gt;
+
+&lt;h2 id=&quot;1前置条件&quot;&gt;1.前置条件&lt;/h2&gt;
+
+&lt;p&gt;安装前需要 安装Git和Node.js(ClaudeCode安装时使用)&lt;/p&gt;
+
+&lt;h2 id=&quot;2具体安装claudecode&quot;&gt;2.具体安装ClaudeCode&lt;/h2&gt;
+
+&lt;p&gt;1：WIndows系统：在Powershell中输入：npm install -g @anthropic-ai/claude-code&lt;/p&gt;
+
+&lt;p&gt;等待运行完成就安装结束了。&lt;/p&gt;
+
+&lt;p&gt;如果报：npm : 无法加载文件 D:\Program Files\nodejs\npm.ps1，因为在此系统上禁止运行脚本。&lt;/p&gt;
+
+&lt;p&gt;先执行：Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser&lt;/p&gt;
+
+&lt;p&gt;再执行安装程序。&lt;/p&gt;
+
+&lt;p&gt;2：安装完成后输入：claude –version 如果返回：2.1.220 (Claude Code)或者其他版本说明安装成功&lt;/p&gt;
+
+&lt;h2 id=&quot;3切换ai模型&quot;&gt;3.切换AI模型&lt;/h2&gt;
+
+&lt;p&gt;直接使用claudeCode需要登录Anthropic 账号，需要切换AI源。&lt;/p&gt;
+
+&lt;p&gt;下载&lt;a href=&quot;https://ccswitch.io/zh/&quot;&gt;CCswith&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;然后安装，打开&lt;/p&gt;
+
+&lt;p&gt;1：添加模型&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;./Imgae/2026-10-08-ClaudeCode_Vs2022安装/CCSwithStep_1.png&quot; alt=&quot;图片&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;2:进入添加页面后，选择你的模型来源，这里采用的deepseek作为AI模型源&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;./Imgae/2026-10-08-ClaudeCode_Vs2022安装/CCSwithStep_2.png&quot; alt=&quot;图&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;3:设置模型参数，打开设置，输入模型API，并设置模型参数&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;./Imgae/2026-10-08-ClaudeCode_Vs2022安装/CCSwithStep_3.png&quot; alt=&quot;打开设置&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;./Imgae/2026-10-08-ClaudeCode_Vs2022安装/CCSwithStep_4.png&quot; alt=&quot;输入API&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;./Imgae/2026-10-08-ClaudeCode_Vs2022安装/CCSwithStep_5.png&quot; alt=&quot;设置参数&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;4：选择启用后，命令行运行ClaudeCode,可以看到模型采用deepseekV4模型&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;./Imgae/2026-10-08-ClaudeCode_Vs2022安装/CCSwithStep_6.png&quot; alt=&quot;运行CluadeCode&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;vs2022使用&quot;&gt;VS2022使用&lt;/h2&gt;
+
+&lt;p&gt;1：vscode2022打开&lt;strong&gt;扩展&lt;/strong&gt;，选择&lt;strong&gt;管理扩展&lt;/strong&gt;，在&lt;strong&gt;浏览中&lt;/strong&gt;的搜索框输入&lt;strong&gt;Claude Code Extension for Visual Studio **找到并选择&lt;/strong&gt;安装**该插件扩展，然后关闭vs2022自动安装插件。&lt;/p&gt;
+
+&lt;p&gt;需要注意扩展插件版本要和vs2022一致，如果插件太新，vs2022版本太旧会出现安装失败情况，需要升级vs2022,不想升级vs2022只能选择旧版本的插件。&lt;/p&gt;
+
+&lt;p&gt;安装完成后打开VS2022选择&lt;strong&gt;视图&lt;/strong&gt;-&lt;strong&gt;其他窗口&lt;/strong&gt;-&lt;strong&gt;Claude Code Extension&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;./Imgae/2026-10-08-ClaudeCode_Vs2022安装/VS2022的使用.png&quot; alt=&quot;使用样例&quot; /&gt;&lt;/p&gt;
+
+
+		</content>
+		
+		<author>
+			<name>LYB</name></author>
+		<summary type="html">&lt;h1 id=&quot;claudecode安装&quot;&gt;ClaudeCode安装&lt;/h1&gt;
+</summary>
+		<category term="posts"/>
+		
+	</entry><entry>
 		<title type="html">First test!</title>
 		<link href="https://timeonalicia.github.io/timeonalicia-s_Article_Commentary/20260922_Test/" rel="alternate" type="text/html" title="First test!"/>
 		<published>2026-09-22T00:00:00+00:00</published>

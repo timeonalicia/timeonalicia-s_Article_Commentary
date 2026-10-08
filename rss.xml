@@ -7,8 +7,8 @@
 		<description>文章随笔随机做备份</description>
 		<language>en-US</language>
 		<copyright>(c) 2026, LYB</copyright>	
-		<pubDate>Tue, 22 Sep 2026 06:01:32 +0000</pubDate>
-		<lastBuildDate>Tue, 22 Sep 2026 06:01:32 +0000</lastBuildDate>
+		<pubDate>Thu, 08 Oct 2026 02:31:40 +0000</pubDate>
+		<lastBuildDate>Thu, 08 Oct 2026 02:31:40 +0000</lastBuildDate>
 		<category>blog</category>
 		<ttl>60</ttl>
 		<atom:link href="https://timeonalicia.github.io/timeonalicia-s_Article_Commentary/rss.xml" rel="self" type="application/rss+xml" />
@@ -18,6 +18,91 @@
 			<link>https://timeonalicia.github.io/timeonalicia-s_Article_Commentary</link>
 			<description>文章随笔随机做备份</description>
 		</image><item>
+			<title>Mysql8.0安装说明</title>
+			<description>
+				<![CDATA[	
+ 				
+    		<p>1 min.</p>
+				<div>
+</div>
+				]]>
+			</description>
+			<link>https://timeonalicia.github.io/timeonalicia-s_Article_Commentary/20261008_Mysql8.0%E5%AE%89%E8%A3%85%E8%AF%B4%E6%98%8E/</link>
+			<category>posts</category>
+		    <guid isPermaLink="true">https://timeonalicia.github.io/timeonalicia-s_Article_Commentary/20261008_Mysql8.0%E5%AE%89%E8%A3%85%E8%AF%B4%E6%98%8E/</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+		</item><item>
+			<title>Claudecode_vs2022安装</title>
+			<description>
+				<![CDATA[	
+ 				
+    		<p>1 min.</p>
+				<div><h1 id="claudecode安装">ClaudeCode安装</h1>
+
+<h2 id="1前置条件">1.前置条件</h2>
+
+<p>安装前需要 安装Git和Node.js(ClaudeCode安装时使用)</p>
+
+<h2 id="2具体安装claudecode">2.具体安装ClaudeCode</h2>
+
+<p>1：WIndows系统：在Powershell中输入：npm install -g @anthropic-ai/claude-code</p>
+
+<p>等待运行完成就安装结束了。</p>
+
+<p>如果报：npm : 无法加载文件 D:\Program Files\nodejs\npm.ps1，因为在此系统上禁止运行脚本。</p>
+
+<p>先执行：Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser</p>
+
+<p>再执行安装程序。</p>
+
+<p>2：安装完成后输入：claude –version 如果返回：2.1.220 (Claude Code)或者其他版本说明安装成功</p>
+
+<h2 id="3切换ai模型">3.切换AI模型</h2>
+
+<p>直接使用claudeCode需要登录Anthropic 账号，需要切换AI源。</p>
+
+<p>下载<a href="https://ccswitch.io/zh/">CCswith</a></p>
+
+<p>然后安装，打开</p>
+
+<p>1：添加模型</p>
+
+<p><img src="./Imgae/2026-10-08-ClaudeCode_Vs2022安装/CCSwithStep_1.png" alt="图片" /></p>
+
+<p>2:进入添加页面后，选择你的模型来源，这里采用的deepseek作为AI模型源</p>
+
+<p><img src="./Imgae/2026-10-08-ClaudeCode_Vs2022安装/CCSwithStep_2.png" alt="图" /></p>
+
+<p>3:设置模型参数，打开设置，输入模型API，并设置模型参数</p>
+
+<p><img src="./Imgae/2026-10-08-ClaudeCode_Vs2022安装/CCSwithStep_3.png" alt="打开设置" /></p>
+
+<p><img src="./Imgae/2026-10-08-ClaudeCode_Vs2022安装/CCSwithStep_4.png" alt="输入API" /></p>
+
+<p><img src="./Imgae/2026-10-08-ClaudeCode_Vs2022安装/CCSwithStep_5.png" alt="设置参数" /></p>
+
+<p>4：选择启用后，命令行运行ClaudeCode,可以看到模型采用deepseekV4模型</p>
+
+<p><img src="./Imgae/2026-10-08-ClaudeCode_Vs2022安装/CCSwithStep_6.png" alt="运行CluadeCode" /></p>
+
+<h2 id="vs2022使用">VS2022使用</h2>
+
+<p>1：vscode2022打开<strong>扩展</strong>，选择<strong>管理扩展</strong>，在<strong>浏览中</strong>的搜索框输入<strong>Claude Code Extension for Visual Studio **找到并选择</strong>安装**该插件扩展，然后关闭vs2022自动安装插件。</p>
+
+<p>需要注意扩展插件版本要和vs2022一致，如果插件太新，vs2022版本太旧会出现安装失败情况，需要升级vs2022,不想升级vs2022只能选择旧版本的插件。</p>
+
+<p>安装完成后打开VS2022选择<strong>视图</strong>-<strong>其他窗口</strong>-<strong>Claude Code Extension</strong></p>
+
+<p><img src="./Imgae/2026-10-08-ClaudeCode_Vs2022安装/VS2022的使用.png" alt="使用样例" /></p>
+
+</div>
+				]]>
+			</description>
+			<link>https://timeonalicia.github.io/timeonalicia-s_Article_Commentary/20261008_ClaudeCode_Vs2022%E5%AE%89%E8%A3%85/</link>
+			<category>posts</category>
+		    <guid isPermaLink="true">https://timeonalicia.github.io/timeonalicia-s_Article_Commentary/20261008_ClaudeCode_Vs2022%E5%AE%89%E8%A3%85/</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+		</item><item>
 			<title>First test!</title>
 			<description>
 				<![CDATA[	
