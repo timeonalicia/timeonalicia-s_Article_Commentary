@@ -3,7 +3,7 @@
 	<generator uri="https://dieghernan.github.io/chulapa" version="1.0.0">Chulapa</generator>
 	<link href="https://timeonalicia.github.io/timeonalicia-s_Article_Commentary/atom.xml" rel="self" type="application/atom+xml" />
 	<link href="https://timeonalicia.github.io/timeonalicia-s_Article_Commentary" rel="alternate" type="text/html" />
-	<updated>2026-10-08T02:50:22+00:00</updated>
+	<updated>2026-10-08T02:58:23+00:00</updated>
 	<id>https://timeonalicia.github.io/timeonalicia-s_Article_Commentary/atom.xml</id>
 	<title>Notes and Journals | 随笔随记</title>
 	<subtitle>随笔随记</subtitle>
@@ -73,23 +73,23 @@
 
 &lt;p&gt;1：添加模型&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/Imgae/2026-10-08/CCSwithStep_1.png&quot; alt=&quot;图片&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../assets/Imgae/2026-10-08/CCSwithStep_1.png&quot; alt=&quot;图片&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;2:进入添加页面后，选择你的模型来源，这里采用的deepseek作为AI模型源&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/Imgae/2026-10-08/CCSwithStep_2.png&quot; alt=&quot;图&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../assets/Imgae/2026-10-08/CCSwithStep_2.png&quot; alt=&quot;图&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;3:设置模型参数，打开设置，输入模型API，并设置模型参数&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/Imgae/2026-10-08/CCSwithStep_3.png&quot; alt=&quot;打开设置&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../assets/Imgae/2026-10-08/CCSwithStep_3.png&quot; alt=&quot;打开设置&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/Imgae/2026-10-08/CCSwithStep_4.png&quot; alt=&quot;输入API&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../assets/Imgae/2026-10-08/CCSwithStep_4.png&quot; alt=&quot;输入API&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/Imgae/2026-10-08/CCSwithStep_5.png&quot; alt=&quot;设置参数&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../assets/Imgae/2026-10-08/CCSwithStep_5.png&quot; alt=&quot;设置参数&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;4：选择启用后，命令行运行ClaudeCode,可以看到模型采用deepseekV4模型&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/Imgae/2026-10-08/CCSwithStep_6.png&quot; alt=&quot;运行CluadeCode&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../assets/Imgae/2026-10-08/CCSwithStep_6.png&quot; alt=&quot;运行CluadeCode&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;vs2022使用&quot;&gt;VS2022使用&lt;/h2&gt;
 
@@ -99,7 +99,7 @@
 
 &lt;p&gt;安装完成后打开VS2022选择&lt;strong&gt;视图&lt;/strong&gt;-&lt;strong&gt;其他窗口&lt;/strong&gt;-&lt;strong&gt;Claude Code Extension&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/Imgae/2026-10-08/vs2022Use.png&quot; alt=&quot;使用样例&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../assets/Imgae/2026-10-08/vs2022Use.png&quot; alt=&quot;使用样例&quot; /&gt;&lt;/p&gt;
 
 
 		</content>
